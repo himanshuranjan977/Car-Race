@@ -53,7 +53,7 @@ python main.py
 
 * **Game screen**
 
-![Game](assets/02.png)
+![Game](screenshot/02.png)
 ![Game](screenshot/01.png)
 
 * **Console results**
