@@ -10,7 +10,7 @@
 - [**Deployed link**](#deployed-link)
 - [**Future Development**](#future-development)
 - [**Questions**](#questions)
-
+The site is live <a href="https://himanshuranjan977.github.io/Tic-Tac-Toe/" target="_blank">here</a>
 ## **Description**
 
 This project was created as a learning experience of Python.
@@ -54,7 +54,7 @@ python main.py
 * **Game screen**
 
 ![Game](screenshot/02.png)
-![Game](screenshot/01.png)
+
 
 * **Final results**
 
@@ -69,4 +69,4 @@ python main.py
 
 ## **Questions**
 
-* Contact me on my GitHub profile: [Marcela's GitHub](https://github.com/marcelamejiao)
+* Contact me on my GitHub profile: [Himanshu's GitHub](https://github.com/himanshuranjan977)
