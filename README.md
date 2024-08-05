@@ -10,7 +10,7 @@
 - [**Deployed link**](#deployed-link)
 - [**Future Development**](#future-development)
 - [**Questions**](#questions)
-- [**The site is** live <a href="https://himanshuranjan977.github.io/Car-Race/" target="_blank">here</a>](#The site is live)
+- [The site is live <a href="https://himanshuranjan977.github.io/Car-Race/" target="_blank">here</a>]
 ## **Description**
 
 This project was created as a learning experience of Python.
