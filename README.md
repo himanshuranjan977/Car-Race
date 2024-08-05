@@ -56,9 +56,9 @@ python main.py
 ![Game](screenshot/02.png)
 ![Game](screenshot/01.png)
 
-* **Console results**
+* **Final results**
 
-![Game](assets/img/console-results.png)
+![Game](screenshot/03.png)
 
 ## **Future Development**
 
